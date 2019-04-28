@@ -1,0 +1,135 @@
+.container {
+    margin: auto;
+    width: 960px;
+}
+    
+    body {
+    background-color: #777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #777;
+    width: 960px;
+    }
+
+header {
+    background:#ebebeb;
+    height: 60px;
+    text-align: center;
+    color: #777;
+    padding-top: 40px;
+    margin: 15px 120px 
+}
+
+nav {
+    background:#ebebeb;
+    height: 60px;
+    text-align: center;
+    color: #777;
+    padding-top: 40px;
+    margin: 15px 120px 
+}
+
+h1, p {
+    color: #777;
+    text-align: center;
+    background:#ebebeb;
+    height: 40px;
+    padding-top: 20px;
+    margin: 15px;
+}
+
+section {
+    position: relative;
+    float: left;
+    background: #ebebeb;
+    height: 250px;
+    width: 495px;
+    padding-top: 20px;
+    margin-left: 120px;
+}
+
+Article {
+    color: #ebebeb;
+    background: #777;
+    margin: 15px;
+    padding-top: 15px;
+}
+
+aside {
+    float: right;
+    position: relative;
+    width: 20%;
+    height: 250px;
+    margin-right: 120px;
+    margin-left: 10px;
+    margin-bottom: 20px
+    padding: 20px;
+    background: #ebebeb;
+}
+
+footer {
+    height: 50px;
+    padding-top: 30px;
+    clear: both;
+    background: #ebebeb;
+    margin: 30px 120px;
+}
+
+
+/* header {
+    padding: 60px;
+    margin-bottom: 60px;
+    background: #ebebeb;
+  }
+
+  nav {
+    background: #ebebeb;
+    text-align: center;
+}
+
+  section {
+    padding: 100px;
+    margin-bottom: 100px;
+    background: #ebebeb;
+  }
+outercontainer {
+    background: #394549;
+    text-align: center;
+    padding: 100px;
+    margin: 100px;
+}
+
+h1, p {
+    text-align: center;
+    background: #ebebeb;
+    color: #777
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #777;
+    background: #ebebeb;
+    width: 960px;
+}
+
+footer {
+    padding: 20px;
+    clear: both;
+    background: #ebebeb;
+}
+
+aside {
+    float: left;
+    width: 33%;
+    height: 200px;
+    padding: 20px;
+    margin-left: 30px;
+    text-decoration-color: white;
+    background: #ebebeb;
+    border: 1px solid #eee;
+  }
+  
+   */
